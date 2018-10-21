@@ -46,4 +46,6 @@
   <!-- LAST: Remove unused/forked Projects for minimal TWRP -->
   <include name="remove-minimal.xml" />
 
+  <include name="devices.xml" />
+
 </manifest>
